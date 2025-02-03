@@ -1,5 +1,5 @@
 <?php
-// URL del feed RSS de El Periódico de Aragón (asegúrate de que esta URL sea válida)
+// URL del feed RSS de El Periódico de Aragón
 $rss_url = "https://www.elperiodicodearagon.com/rss";
 
 // Cargar el contenido del feed RSS
